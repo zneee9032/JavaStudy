@@ -1,0 +1,15 @@
+지시자		클래스내부 	   동일 패키지	      상속받은 클래스 		          이외의 영역
+private		0			x			x			        x	
+			
+default		0			0                       x				x
+
+protected	0			0			0				x													
+
+public		0			0			0				0
+
+
+제한하는 강도 private > default > protected > public 
+
+
+<default 보호해야한다고 아무말 없는것
+protected 보호해야한다고 말한것>
